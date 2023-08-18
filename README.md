@@ -45,7 +45,7 @@ graficos reutilizables.
 
 * Aqui esta la estructura de carpetas
 
-´´´
+```
     ├── Data
 │   └── Cacpepas_api.dart
 ├── Domain
@@ -77,7 +77,7 @@ graficos reutilizables.
         └── widgets.dart
 
 9 directories, 20 files
-´´´
+```
 *Gracias por tu tiempo 😁*
 
 ## FAQs
