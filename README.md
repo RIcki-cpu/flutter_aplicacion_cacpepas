@@ -35,16 +35,17 @@ Nota: Desde aqui se pueden actualizar las consultas HTTP
 
 ## Algo sobre como esta construido
 
-*El proyecto esta utilizando arquitectura clean code 
-*En el directorio presentación esta los widgets que contienen los elementos graficos
+* El proyecto esta utilizando arquitectura clean code 
+* En el directorio presentación esta los widgets que contienen los elementos graficos
 Cada una de las carpetas es una pantalla o screen. Excepto la carpeta widget que son elementos
 graficos reutilizables.
-*En el directorio Dominio estan todas las clases y modelos de datos de los datos
-*En el directorio Data este el codigo que recupera la información de la API
+* En el directorio Dominio estan todas las clases y modelos de datos de los datos
+* En el directorio Data este el codigo que recupera la información de la API
 
 
-*Aqui esta la estructura de carpetas
+* Aqui esta la estructura de carpetas
 
+´´´
     ├── Data
 │   └── Cacpepas_api.dart
 ├── Domain
@@ -76,8 +77,8 @@ graficos reutilizables.
         └── widgets.dart
 
 9 directories, 20 files
-
-*Gracias por tu tiempo 😁 *
+´´´
+*Gracias por tu tiempo 😁*
 
 ## FAQs
 ***
